@@ -10,7 +10,7 @@
 <hr>
 <h3 align="center">A Software Engineer in Sri Lanka</h3>
 <p align="center">
-<a href="www.linkedin.com/in/janindulokitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vimukthi-ravindu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.whatsapp.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="akash_chowrasia" height="30" width="40" /></a>
  <a href = ""><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"  alt=""/></a>
 </p>
