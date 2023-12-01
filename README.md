@@ -77,7 +77,7 @@
   </a> &nbsp;&nbsp;
 
   <a href="https://facebook.com/vimukthi.ravindu.12" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://icons8.com/icon/uLWV5A9vXIPu/facebook" />
+    <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://icons8.com/icon/uLWV5A9vXIPu/facebook" />
   </a> &nbsp;&nbsp;
   
 <p> 
