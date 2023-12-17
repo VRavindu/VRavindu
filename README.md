@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=+I'm+Vimukthi+Ravindu+;Welcome+to+My+Profile!"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=39FF14&size=50&center=true&vCenter=true&height=60&width=618&lines=+I'm+Vimukthi+Ravindu+;Welcome+to+My+Profile!"
 </div>
 <hr>
 <h3 align="center">A Software Engineer in Sri Lanka</h3>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is ME, Lokitha. <b>First year</b> undergraduate, from <a href="https://www.ijse.lk/"> <b>Institute of Java Software Engineering</b></a> <br>
+    This is ME, Ravindu, <b>First year</b> undergraduate, from <a href="https://www.ijse.lk/"> <b>Institute of Java Software Engineering</b></a> <br>
     Aspiring <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
