@@ -37,7 +37,7 @@
 
 <p align="center">
   <em>
-    This is ME, Ravindu, <b>First year</b> undergraduate, from <a href="https://www.ijse.lk/"> <b>Institute of Java Software Engineering</b></a> <br>
+    This is ME, Ravindu, <b>Second year</b> undergraduate, from <a href="https://www.ijse.lk/"> <b>Institute of Java Software Engineering</b></a> <br>
     Aspiring <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -51,10 +51,10 @@
 <br>
 <hr>
 - :credit_card: My full name is <b>H. H. Vimukthi Ravindu Hewarathna</b> <br>
-- :school: I'm currently a 1st year student at <b>Institute of Java Software Engineering</b> <br>
+- :school: I'm currently a 2nd year student at <b>Institute of Java Software Engineering</b> <br>
 - :books: My major is <b>Software Engineering</b> <br>
 - :earth_asia: I live in <b>Neluwa, Galle, Sri Lanka</b> <br>
-- :sweat_smile: I'm a newbie in coding, know <b>Java</b> language, <b>MySQL</b>. <br>
+- :sweat_smile: I'm a newbie in coding, know <b>Java, HTML, CSS, JavaScript, Python</b> languages, <b>MySQL, Bootstrap, Spring</b>. <br>
 - :monocle_face: I'm interested in <b>Coding, Gaming</b> and <b>watching tech-based videos</b> <br>
 - :sunglasses: My quote is <b>"Challenges Are What Make Life Interesting And Overcoming Them Is What Makes Life Meaningful"</b>
 
@@ -64,21 +64,21 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bootstrap,figma,css,html,js,ai,ae,ps,github,git,idea&perline=3" />
+    <img src="https://skillicons.dev/icons?i=ae,figma,ai,ps,pr,java,html,css,js,py,mysql,bootstrap,jquery,spring,gradle,idea,vscode,git,firebase,postman,arduino,nodejs,regex,mint,github&perline=5" />
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VRavindu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vravindu&layout=compact)
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
   
-![Vimukthi Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VRavindu&show_icons=true&theme=transparent)
+![Vimukthi Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vravindu&show_icons=true&theme=transparent)
 
 
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=VRavindu&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=vravindu&theme=algolia&background=0d1117&hide_border=true" />
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 </div>
